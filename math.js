@@ -16,3 +16,6 @@ function myFunc(theObject) {
   console.log(mycar.make); // "Honda"
   myFunc(mycar);
   console.log(mycar.make); // "Toyota"
+
+  console.log(3); 
+
